@@ -1,0 +1,14 @@
+EasyProcess==0.3
+entrypoint2==0.2.4
+numpy==1.21.4
+opencv-python==4.5.4.58
+Pillow==8.4.0
+Pillow-PIL==0.1.dev0
+PyGetWindow==0.0.9
+PyMsgBox==1.0.9
+pyperclip==1.8.2
+PyRect==0.1.4
+pyscreenshot==3.0
+PyScreeze==0.1.28
+pytweening==1.0.4
+pywin32==302
